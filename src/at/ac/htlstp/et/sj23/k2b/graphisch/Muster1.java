@@ -1,5 +1,7 @@
 package at.ac.htlstp.et.sj23.k2b.graphisch;
 
+// BLABLA
+
 import java.awt.*;
 
 public class Muster1 extends MyFrame{
